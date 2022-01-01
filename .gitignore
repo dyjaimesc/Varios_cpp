@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Varios
+
+
+*a.out
+*.x
+*~
+*#
+*.txt
+*#*
+*.pdf
+*.Rhistory
+*.dat
+*.sh~
+*.gif
+*.sh
+Makefile*
+*.gp
+*.log
